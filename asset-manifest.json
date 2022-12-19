@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kafene-react/static/css/main.e196b0f0.css",
+    "main.js": "/kafene-react/static/js/main.d27bb341.js",
+    "static/js/787.5877f77a.chunk.js": "/kafene-react/static/js/787.5877f77a.chunk.js",
+    "index.html": "/kafene-react/index.html",
+    "main.e196b0f0.css.map": "/kafene-react/static/css/main.e196b0f0.css.map",
+    "main.d27bb341.js.map": "/kafene-react/static/js/main.d27bb341.js.map",
+    "787.5877f77a.chunk.js.map": "/kafene-react/static/js/787.5877f77a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e196b0f0.css",
+    "static/js/main.d27bb341.js"
+  ]
+}
